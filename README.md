@@ -1,4 +1,4 @@
-# portolio web-app
+# personal portfolio
 Portfolio can be viewed in action at https://alfredjiao.com
 
 
